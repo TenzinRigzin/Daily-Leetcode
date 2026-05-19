@@ -1,3 +1,4 @@
+"""
 # Max Consecutive Ones
 
 ## Problem Statement
@@ -20,12 +21,10 @@ Given a binary array `nums`, return the maximum number of consecutive 1's in the
 
 ---
 
+"""
 ## Solution
-The following Python solution iterates through the array once, keeping track of the current streak of 1s and updating the maximum streak found so far.
-
-```python
 class Solution(object):
-    def findMaxConsecutiveOnes(self, nums):
+    def findMaxConsecutiveOnes(self,nums):
         maxCount = 0
         currentCount = 0
 
@@ -36,13 +35,10 @@ class Solution(object):
                 if currentCount > maxCount:
                     maxCount = currentCount
                 currentCount = 0
-        
-        # Return the larger of the two in case the array ends with a streak of 1s
         return max(maxCount, currentCount)
 
-# Usage
-if __name__ == "__main__":
-    sol = Solution()
-    test_nums = [1, 1, 0, 1, 1, 1]
-    print(f"Result: {sol.findMaxConsecutiveOnes(test_nums)}")
-```
+
+    nums = [1,1,0,1,1,1]
+    self=1
+    findMaxConsecutiveOnes(self,nums)
+
