@@ -88,11 +88,17 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 
 ---
 
-## 📬 Connect
-If you find this helpful, feel free to ⭐ the repo and connect! [![GitHub](https://shields.io)](https://github.com) [![LeetCode](https://shields.io)](https://leetcode.com)
+### 🤝 Connect with Me
 
 
----
+| Platform | Link |
+| :--- | :--- |
+| **
+| **GitHub** | [@TenzinRigzin](https://github.com) |
+|**
+| **LeetCode** | [@HQtEdv5cq4](https://leetcode.com) |
+
+*If you find my projects helpful, feel free to ⭐ the repositories!*
 
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
