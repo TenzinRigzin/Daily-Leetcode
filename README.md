@@ -89,12 +89,12 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 ---
 
 ## 📬 Connect
-
 If you find this helpful, feel free to ⭐ the repo and connect!
-
-[![GitHub]([https://img.shields.io/badge/GitHub-your--username-181717?style=flat&logo=github)](https://github.com/your-username](https://github.com/TenzinRigzin))
-[![LeetCode]([https://img.shields.io/badge/LeetCode-your--username-FFA116?style=flat&logo=leetcode)](https://leetcode.com/your-username](https://leetcode.com/u/HQtEdv5cq4/))
-
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=flat&logo=github)]([https://github.com/your-username](https://github.com/TenzinRigzin)])
+[![LeetCode](https://img.shields.io/badge/LeetCode-your--username-FFA116?style=flat&logo=leetcode)]((https://leetcode.com/u/HQtEdv5cq4/))
+ 
 ---
+
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
