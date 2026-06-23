@@ -102,3 +102,15 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
