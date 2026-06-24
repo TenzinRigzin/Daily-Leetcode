@@ -109,8 +109,21 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0001-two-sum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
