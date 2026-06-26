@@ -126,4 +126,16 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
