@@ -110,6 +110,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | ------- |
 | [0001-two-sum](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
@@ -166,9 +167,14 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0010-regular-expression-matching) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
