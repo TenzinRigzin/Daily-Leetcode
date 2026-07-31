@@ -113,6 +113,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | [0011-container-with-most-water](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0016-3sum-closest) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
@@ -178,6 +179,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | [0005-longest-palindromic-substring](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -195,4 +197,5 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 |  |
 | ------- |
 | [0015-3sum](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
