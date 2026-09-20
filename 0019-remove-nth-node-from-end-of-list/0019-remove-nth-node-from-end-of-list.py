@@ -6,19 +6,19 @@ class ListNode:
 
 class Solution:
     def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
-        dummy = ListNode(0, head)   # sentinel so removing head needs no special case
+        dummy = ListNode(0, head)  
         fast = slow = dummy
 
-        # Advance fast n+1 steps ahead, creating an n-node gap between fast and slow
+        
         for _ in range(n + 1):
             fast = fast.next
 
-        # Move both pointers until fast falls off the end
+      
         while fast is not None:
             fast = fast.next
             slow = slow.next
 
-        # slow is now just before the target node -> unlink it
+      
         slow.next = slow.next.next
 
         return dummy.next
