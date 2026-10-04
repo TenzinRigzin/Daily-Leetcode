@@ -127,6 +127,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0020-valid-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
@@ -165,6 +166,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | [0013-roman-to-integer](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -209,4 +211,8 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
