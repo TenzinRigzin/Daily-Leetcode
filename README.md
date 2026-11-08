@@ -116,6 +116,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | [0016-3sum-closest](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0027-remove-element) |
+| [1267-count-servers-that-communicate](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
@@ -271,4 +272,24 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0029-divide-two-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
