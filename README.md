@@ -118,6 +118,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | [0027-remove-element](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0027-remove-element) |
 | [1267-count-servers-that-communicate](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
@@ -140,6 +141,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Linked List
 |  |
@@ -244,6 +246,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Merge Sort
 |  |
 | ------- |
@@ -292,4 +295,8 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
