@@ -161,6 +161,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | [0012-integer-to-roman](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0029-divide-two-integers) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
 | ------- |
@@ -221,6 +222,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0011-container-with-most-water) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Trie
 |  |
 | ------- |
