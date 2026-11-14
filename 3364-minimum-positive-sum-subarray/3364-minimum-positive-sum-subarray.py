@@ -1,7 +1,8 @@
+import sys
 class Solution:
     def minimumSumSubarray(self, nums: List[int], l: int, r: int) -> int:
 
-        min_sum = 9999999999999
+        min_sum = sys.maxsize
         for left in range(len(nums)):                                             
             
             for right in range(left,len(nums)):      
@@ -10,13 +11,9 @@ class Solution:
 
                     list_sum = sum(nums[left:right+1])                   
                     min_sum = min(min_sum,list_sum)                
-        if min_sum == 9999999999999:
+        if min_sum == sys.maxsize:
             return -1
 
         if min_sum<0:
             return -1
         return min_sum
-
-        #left = 
-        #right 
-        #min_sum = 9999999999999,
