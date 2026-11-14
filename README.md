@@ -120,6 +120,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3364-minimum-positive-sum-subarray](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Hash Table
 |  |
@@ -193,6 +194,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3364-minimum-positive-sum-subarray](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
@@ -317,4 +319,8 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
