@@ -147,6 +147,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -189,6 +190,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | [0022-generate-parentheses](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
