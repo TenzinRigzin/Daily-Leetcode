@@ -192,6 +192,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | [0030-substring-with-concatenation-of-all-words](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Sliding Window
 |  |
 | ------- |
