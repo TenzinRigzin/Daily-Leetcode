@@ -117,6 +117,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | [0018-4sum](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0027-remove-element) |
 | [1267-count-servers-that-communicate](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -166,6 +167,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | [0012-integer-to-roman](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0029-divide-two-integers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
@@ -328,5 +330,14 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
