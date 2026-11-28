@@ -123,6 +123,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3364-minimum-positive-sum-subarray](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +238,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | ------- |
 | [0011-container-with-most-water](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0011-container-with-most-water) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Trie
 |  |
 | ------- |
@@ -248,6 +250,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | [0016-3sum-closest](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0018-4sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -263,6 +266,7 @@ Hard    : ░░░░░░░░░░░░░░░░   0
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/TenzinRigzin/Daily-Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Merge Sort
 |  |
 | ------- |
